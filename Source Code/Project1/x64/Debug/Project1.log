@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\jobs here\playlist\project1\project1\font.h(158): warning C4305: '=': truncation from 'double' to 'float'
+d:\jobs here\playlist\project1\project1\font.h(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\font.h(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\font.h(268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\jobs here\playlist\project1\project1\font.h(273): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\jobs here\playlist\project1\project1\font.h(320): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\note.h(17): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\note.h(67): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\note.h(117): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\note.h(167): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\note.h(217): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\main.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\jobs here\playlist\project1\project1\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\Jobs here\Playlist\Project1\x64\Debug\Project1.exe
